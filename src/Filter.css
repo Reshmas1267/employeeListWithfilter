@@ -1,0 +1,12 @@
+
+.filter {
+    margin-bottom: 20px;
+    color: rgb(196, 58, 113);
+  }
+  
+  .filter select {
+    padding: 8px;
+    font-size: 16px;
+    background-color: aquamarine;
+  }
+  

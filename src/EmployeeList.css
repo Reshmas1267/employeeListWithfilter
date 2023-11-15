@@ -1,0 +1,19 @@
+
+.employee-list {
+    margin-top: 20px;
+    color: rgb(3, 18, 18);
+  }
+  
+  .employee-item {
+    list-style-type: none;
+    margin-bottom: 8px;
+    padding: 6px 1px;
+    border: 1px solid #ee4444;
+    border-radius: 4px;
+    background-color: #b19797;
+  }
+  
+  .employee-item:hover {
+    background-color: #7aad1a;
+  }
+  
